@@ -4,7 +4,6 @@
 
 int main() {
     int N1, N2, i;
-    int cntt = 0;
     int G, L=1; //최소공배수, 최대공약수
 
     scanf("%d %d", &N1, &N2);
